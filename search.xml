@@ -4,11 +4,51 @@
   
     
     <entry>
+      <title>5</title>
+      <link href="/5.html"/>
+      <url>/5.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Studio one 7 离线分离伴奏版本</title>
+      <link href="/Studio-one-7-%E7%A6%BB%E7%BA%BF%E5%88%86%E7%A6%BB%E4%BC%B4%E5%A5%8F%E7%89%88%E6%9C%AC.html"/>
+      <url>/Studio-one-7-%E7%A6%BB%E7%BA%BF%E5%88%86%E7%A6%BB%E4%BC%B4%E5%A5%8F%E7%89%88%E6%9C%AC.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 软件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Studio one 7 </tag>
+            
+            <tag> 软件分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ACE Studio模板共享计划</title>
       <link href="/ACE-Studio.html"/>
       <url>/ACE-Studio.html</url>
       
-        <content type="html"><![CDATA[<blockquote><p>Ace Studio模板共享计划是一个付费订阅计划，在接扒谱过程中发现有很多做唱解说的朋友（类似谷自囧唱电影），导致积攒了一些ACE Studio模板，所以准备分享出来供大家使用！</p></blockquote><p>待撰写</p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>Ace Studio模板共享计划是一个付费订阅计划，在接扒谱过程中发现有很多做唱解说的朋友（类似谷自囧唱电影），导致积攒了一些ACE Studio模板，所以准备分享出来供大家使用！</p></blockquote><h1 id="待撰写"><a href="#待撰写" class="headerlink" title="待撰写"></a>待撰写</h1>]]></content>
       
       
       <categories>
@@ -21,31 +61,6 @@
         <tags>
             
             <tag> ACE Studio </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>人工扒谱委托业务</title>
-      <link href="/bapu.html"/>
-      <url>/bapu.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><blockquote><p>人工扒谱委托比较耗时，推荐加入金胡萝卜会员获取200+midi伴奏包，一些流行的热曲我会第一时间扒出共享，性价比极高。详情请到介绍页面查看：<a href="/goldvip.html">🥕金胡萝卜会员介绍页面</a></p><p>您可以去<a href="/freemidi.html">免费配布页面</a>下载一些免费配布的查看扒谱质量</p></blockquote><p>本业务是<code>人工耳扒</code>，将一首歌曲主旋律利用宿主软件人工制作成单轨MIDI，可供UTAU、VOCALOID、Synthesizer V、Ace studio、网易X Studio、DiffSinger、袅袅、Sharpkey、DeepVocal等虚拟歌姬制作软件通用的<code>.mid</code>文件。</p><p>比起一些软件提供的Ai识别生成MIDI，人工耳扒在音高上更准确、不会跑调、不会突然高8度等问题</p><hr><h3 id="人工-VS-AI识别"><a href="#人工-VS-AI识别" class="headerlink" title="人工 VS AI识别"></a>人工 VS AI识别</h3><p>比起一些软件提供的Ai识别生成MIDI，人工耳扒在音高上更准确、不会跑调、不会突然高8度等问题</p><table><thead><tr><th align="left"><strong>人工耳扒MIDI</strong></th><th align="left"><strong>AI识别生成MIDI</strong></th></tr></thead><tbody><tr><td align="left">✅    音高更准确：绝对音准，助理调教</td><td align="left">❌音高容易识别错误（识别成和声、高低八度等）</td></tr><tr><td align="left">✅    节奏更准确：人工对节拍，让你的调教不拖拍</td><td align="left">❌节奏混乱、填词时痛苦折磨</td></tr><tr><td align="left">✅    提前对轨：midi、伴奏对轨，减轻或避免混音对轨工作</td><td align="left">❌midi伴奏节奏混乱，对不上</td></tr><tr><td align="left">✅    更高质量的伴奏：使用最新最好的算法提取或寻找原版伴奏交付</td><td align="left">❌效果不好、人声清除不干净</td></tr></tbody></table><hr><h3 id="工作流程"><a href="#工作流程" class="headerlink" title="工作流程"></a>工作流程</h3><ol><li>QQ&#x2F;微信联系，发送原曲试听</li><li>确认需求：单人声轨、和声轨、节奏轨、间奏轨、乐器轨（明显的）</li><li>报价</li><li>制作</li><li>交付</li></ol><h4 id="交付内容"><a href="#交付内容" class="headerlink" title="交付内容"></a>交付内容</h4><ol><li>原曲： {歌曲名}.wav</li><li>MIDI文件： {扒谱日期} {BPM} 胡萝卜须儿 扒谱 {歌曲名}.mid</li><li>分离的原曲伴奏文件：1_{歌曲名}_(Instrumental).wav</li><li>分离的原曲人声文件：1_{歌曲名}_(Vocals).wav</li></ol><hr><h3 id="定价规则"><a href="#定价规则" class="headerlink" title="定价规则"></a>定价规则</h3><p>最终报价&#x3D;基础价格+轨道+难度价格</p><ol><li>基础价格：￥25 即单人声轨（短于1min收取半价）</li><li>轨道价格：￥5~￥20 和声轨、节奏轨、间奏轨、乐器轨（明显的）酌情添加</li><li>歌曲难度价格：￥5~￥10 根据歌曲的难度，例如快歌、rap、全曲人声占比等酌情加价</li></ol><hr><h1 id="委托方式"><a href="#委托方式" class="headerlink" title="委托方式"></a>委托方式</h1><p>QQ：2806864996</p><p>微信：HUU176</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 野生技术 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> MIDI </tag>
             
         </tags>
       
@@ -79,11 +94,36 @@
     
     
     <entry>
+      <title>人工扒谱委托业务</title>
+      <link href="/bapu.html"/>
+      <url>/bapu.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><blockquote><p>人工扒谱委托比较耗时，推荐加入金胡萝卜会员获取200+midi伴奏包，一些流行的热曲我会第一时间扒出共享，性价比极高。详情请到介绍页面查看：<a href="/goldvip.html">🥕金胡萝卜会员介绍页面</a></p><p>您可以去<a href="/freemidi.html">免费配布页面</a>下载一些免费配布的查看扒谱质量</p></blockquote><p>本业务是<code>人工耳扒</code>，将一首歌曲主旋律利用宿主软件人工制作成单轨MIDI，可供UTAU、VOCALOID、Synthesizer V、Ace studio、网易X Studio、DiffSinger、袅袅、Sharpkey、DeepVocal等虚拟歌姬制作软件通用的<code>.mid</code>文件。</p><p>比起一些软件提供的Ai识别生成MIDI，人工耳扒在音高上更准确、不会跑调、不会突然高8度等问题</p><hr><h3 id="人工-VS-AI识别"><a href="#人工-VS-AI识别" class="headerlink" title="人工 VS AI识别"></a>人工 VS AI识别</h3><p>比起一些软件提供的Ai识别生成MIDI，人工耳扒在音高上更准确、不会跑调、不会突然高8度等问题</p><table><thead><tr><th align="left"><strong>人工耳扒MIDI</strong></th><th align="left"><strong>AI识别生成MIDI</strong></th></tr></thead><tbody><tr><td align="left">✅    音高更准确：绝对音准，助理调教</td><td align="left">❌音高容易识别错误（识别成和声、高低八度等）</td></tr><tr><td align="left">✅    节奏更准确：人工对节拍，让你的调教不拖拍</td><td align="left">❌节奏混乱、填词时痛苦折磨</td></tr><tr><td align="left">✅    提前对轨：midi、伴奏对轨，减轻或避免混音对轨工作</td><td align="left">❌midi伴奏节奏混乱，对不上</td></tr><tr><td align="left">✅    更高质量的伴奏：使用最新最好的算法提取或寻找原版伴奏交付</td><td align="left">❌效果不好、人声清除不干净</td></tr></tbody></table><hr><h3 id="工作流程"><a href="#工作流程" class="headerlink" title="工作流程"></a>工作流程</h3><ol><li>QQ&#x2F;微信联系，发送原曲试听</li><li>确认需求：单人声轨、和声轨、节奏轨、间奏轨、乐器轨（明显的）</li><li>报价</li><li>制作</li><li>交付</li></ol><h4 id="交付内容"><a href="#交付内容" class="headerlink" title="交付内容"></a>交付内容</h4><ol><li>原曲： {歌曲名}.wav</li><li>MIDI文件： {扒谱日期} {BPM} 胡萝卜须儿 扒谱 {歌曲名}.mid</li><li>分离的原曲伴奏文件：1_{歌曲名}_(Instrumental).wav</li><li>分离的原曲人声文件：1_{歌曲名}_(Vocals).wav</li></ol><hr><h3 id="定价规则"><a href="#定价规则" class="headerlink" title="定价规则"></a>定价规则</h3><p>最终报价&#x3D;基础价格+轨道+难度价格</p><ol><li>基础价格：￥25 即单人声轨（短于1min收取半价）</li><li>轨道价格：￥5~￥20 和声轨、节奏轨、间奏轨、乐器轨（明显的）酌情添加</li><li>歌曲难度价格：￥5~￥10 根据歌曲的难度，例如快歌、rap、全曲人声占比等酌情加价</li></ol><hr><h1 id="委托方式"><a href="#委托方式" class="headerlink" title="委托方式"></a>委托方式</h1><p>QQ：2806864996</p><p>微信：HUU176</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 野生技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MIDI </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>调教用MIDI伴奏包免费配布</title>
       <link href="/freemidi.html"/>
       <url>/freemidi.html</url>
       
-        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><blockquote><p>免费midi质量和及时性都比较低，推荐加入金胡萝卜会员获取200+midi伴奏包，一些流行的热曲我会第一时间扒出共享。详情请到介绍页面查看：<a href="/goldvip.html">🥕金胡萝卜会员介绍页面</a></p><p>同时你也可以向我进行扒谱委托，详情请到介绍页面查看：<a href="/bapu.html">委托扒谱介绍页面</a></p></blockquote><p>MIDI包已压缩包的形式进行分享，压缩包内包含：</p><ol><li>伴奏</li><li>提取的干声</li><li>.mid文件</li></ol><hr><h1 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h1><ol><li><p>关注公众号：<code>LOOBO</code> 及时获取配布推送以及反馈</p></li><li><p>扫描右方小程序码，搜索下方列表相应<code>标题</code>即可</p></li></ol><img title="" src="https://cdn.guichushijie.cn/img/wxxcx.webp" alt="微信公众号二维码和小程序码" data-align="left" width="527"><hr><h1 id="配布列表"><a href="#配布列表" class="headerlink" title="配布列表"></a>配布列表</h1><p>使用必须标注<code>midi：胡萝卜须儿</code>，不允许私下传递，请分享本配布页面进行分享</p><table><thead><tr><th align="center">标题</th><th align="center">BPM</th><th align="center">版本</th></tr></thead><tbody><tr><td align="center">APT.</td><td align="center">149</td><td align="center">删减版</td></tr><tr><td align="center">Bones</td><td align="center">114</td><td align="center">原版</td></tr><tr><td align="center">勇气大爆发</td><td align="center">122</td><td align="center"></td></tr><tr><td align="center">雪distance</td><td align="center">100</td><td align="center">原版</td></tr><tr><td align="center">雪distance</td><td align="center">128</td><td align="center">DJ版</td></tr><tr><td align="center">极乐净土</td><td align="center">131</td><td align="center">Live版</td></tr><tr><td align="center">花，太阳，彩虹，你</td><td align="center">105</td><td align="center">删改版</td></tr><tr><td align="center">阳光开朗大男孩</td><td align="center">110</td><td align="center">原版</td></tr><tr><td align="center">拆东墙</td><td align="center">106</td><td align="center">原版</td></tr><tr><td align="center">一口气全念对</td><td align="center">110</td><td align="center">原版</td></tr><tr><td align="center">开心往前飞</td><td align="center">145</td><td align="center">原版</td></tr><tr><td align="center">普通朋友</td><td align="center">89</td><td align="center">原版</td></tr><tr><td align="center">范进中举</td><td align="center">122</td><td align="center">原版</td></tr><tr><td align="center">不问ciaga&#x2F;不问别离</td><td align="center">100</td><td align="center">原版</td></tr><tr><td align="center">强风大背头</td><td align="center">135</td><td align="center">原版</td></tr><tr><td align="center">听悲伤的情歌</td><td align="center">160</td><td align="center">原版</td></tr><tr><td align="center">游山恋（霜华满天）</td><td align="center">85</td><td align="center">删改版</td></tr><tr><td align="center">人生态度</td><td align="center">113</td><td align="center">原版</td></tr><tr><td align="center">我推的孩子</td><td align="center">83</td><td align="center">删改版</td></tr><tr><td align="center">夜に駆ける</td><td align="center">130</td><td align="center">原版</td></tr><tr><td align="center">I got smoke</td><td align="center">124</td><td align="center">完整版</td></tr><tr><td align="center">循迹</td><td align="center">100</td><td align="center">删改版</td></tr><tr><td align="center">秀才的小曲（兰亭序remix）</td><td align="center"></td><td align="center">删改版</td></tr><tr><td align="center">一笑江湖</td><td align="center">130</td><td align="center">完整DJ弹鼓版</td></tr><tr><td align="center">登神</td><td align="center">146</td><td align="center">删改版</td></tr><tr><td align="center">All My People</td><td align="center"></td><td align="center">删改版</td></tr><tr><td align="center">payphone 阿妈的配方</td><td align="center">110</td><td align="center">删改版</td></tr><tr><td align="center">萝莉摇</td><td align="center">165</td><td align="center">删改版</td></tr><tr><td align="center">赐我</td><td align="center"></td><td align="center">删改版</td></tr><tr><td align="center">我期待的不是雪</td><td align="center">113</td><td align="center">完整版</td></tr><tr><td align="center">离别开出花</td><td align="center">128</td><td align="center">删改版</td></tr><tr><td align="center">不眠之夜</td><td align="center">120</td><td align="center">删改版</td></tr></tbody></table><p>还会慢慢增加免费配布的内容，如果你需要更及时的更新，可加入拥有200+midi伴奏包的<a href="/goldvip.html">金胡萝卜会员</a>，每一个都是我自己扒的，对好了轨，保证简单可用！</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><blockquote><p>免费midi质量和及时性都比较低，推荐加入金胡萝卜会员获取200+midi伴奏包，一些流行的热曲我会第一时间扒出共享。详情请到介绍页面查看：<a href="/goldvip.html">🥕金胡萝卜会员介绍页面</a></p><p>同时你也可以向我进行扒谱委托，详情请到介绍页面查看：<a href="/bapu.html">委托扒谱介绍页面</a></p></blockquote><p>MIDI包已压缩包的形式进行分享，压缩包内包含：</p><ol><li>伴奏</li><li>提取的干声</li><li>.mid文件</li></ol><hr><h1 id="获取方式"><a href="#获取方式" class="headerlink" title="获取方式"></a>获取方式</h1><ol><li><p>关注公众号：<code>LOOBO</code> 及时获取配布推送以及反馈</p></li><li><p>扫描右方小程序码，搜索下方列表相应<code>标题</code>即可</p></li></ol><img title="" src="https://cdn.guichushijie.cn/img/wxxcx.webp" alt="微信公众号二维码和小程序码" data-align="left" width="527"><hr><h1 id="配布列表"><a href="#配布列表" class="headerlink" title="配布列表"></a>配布列表</h1><p>使用必须标注<code>midi：胡萝卜须儿</code>，不允许私下传递，请分享本配布页面进行分享</p><table><thead><tr><th align="center">标题</th><th align="center">BPM</th><th align="center">版本</th></tr></thead><tbody><tr><td align="center">APT. <code>New</code></td><td align="center">149</td><td align="center">删减版</td></tr><tr><td align="center">Bones</td><td align="center">114</td><td align="center">原版</td></tr><tr><td align="center">勇气大爆发</td><td align="center">122</td><td align="center"></td></tr><tr><td align="center">雪distance</td><td align="center">100</td><td align="center">原版</td></tr><tr><td align="center">雪distance</td><td align="center">128</td><td align="center">DJ版</td></tr><tr><td align="center">极乐净土</td><td align="center">131</td><td align="center">Live版</td></tr><tr><td align="center">花，太阳，彩虹，你</td><td align="center">105</td><td align="center">删改版</td></tr><tr><td align="center">阳光开朗大男孩</td><td align="center">110</td><td align="center">原版</td></tr><tr><td align="center">拆东墙</td><td align="center">106</td><td align="center">原版</td></tr><tr><td align="center">一口气全念对</td><td align="center">110</td><td align="center">原版</td></tr><tr><td align="center">开心往前飞</td><td align="center">145</td><td align="center">原版</td></tr><tr><td align="center">普通朋友</td><td align="center">89</td><td align="center">原版</td></tr><tr><td align="center">范进中举</td><td align="center">122</td><td align="center">原版</td></tr><tr><td align="center">不问ciaga&#x2F;不问别离</td><td align="center">100</td><td align="center">原版</td></tr><tr><td align="center">强风大背头</td><td align="center">135</td><td align="center">原版</td></tr><tr><td align="center">听悲伤的情歌</td><td align="center">160</td><td align="center">原版</td></tr><tr><td align="center">游山恋（霜华满天）</td><td align="center">85</td><td align="center">删改版</td></tr><tr><td align="center">人生态度</td><td align="center">113</td><td align="center">原版</td></tr><tr><td align="center">我推的孩子</td><td align="center">83</td><td align="center">删改版</td></tr><tr><td align="center">夜に駆ける</td><td align="center">130</td><td align="center">原版</td></tr><tr><td align="center">I got smoke</td><td align="center">124</td><td align="center">完整版</td></tr><tr><td align="center">循迹</td><td align="center">100</td><td align="center">删改版</td></tr><tr><td align="center">秀才的小曲（兰亭序remix）</td><td align="center"></td><td align="center">删改版</td></tr><tr><td align="center">一笑江湖</td><td align="center">130</td><td align="center">完整DJ弹鼓版</td></tr><tr><td align="center">登神</td><td align="center">146</td><td align="center">删改版</td></tr><tr><td align="center">All My People</td><td align="center"></td><td align="center">删改版</td></tr><tr><td align="center">payphone 阿妈的配方</td><td align="center">110</td><td align="center">删改版</td></tr><tr><td align="center">萝莉摇</td><td align="center">165</td><td align="center">删改版</td></tr><tr><td align="center">赐我</td><td align="center"></td><td align="center">删改版</td></tr><tr><td align="center">我期待的不是雪</td><td align="center">113</td><td align="center">完整版</td></tr><tr><td align="center">离别开出花</td><td align="center">128</td><td align="center">删改版</td></tr><tr><td align="center">不眠之夜</td><td align="center">120</td><td align="center">删改版</td></tr></tbody></table><p>还会慢慢增加免费配布的内容，如果你需要更及时的更新，可加入拥有200+midi伴奏包的<a href="/goldvip.html">金胡萝卜会员</a>，每一个都是我自己扒的，对好了轨，保证简单可用！</p>]]></content>
       
       
       <categories>
