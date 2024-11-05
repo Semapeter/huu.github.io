@@ -1,4 +1,4 @@
-var posts=["5.html","ACE-Studio.html","Studio-one-7-离线分离伴奏版本.html","freemidi.html","goldvip.html","bapu.html"];function toRandomPost(){
+var posts=["ACE-Studio.html","Studio-one-7-离线分离伴奏版本.html","bapu.html","freemidi.html","goldvip.html"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[{"name":"鬼畜世界网","link":"https://guichushijie.cn/","avatar":"https://cdn.guichushijie.cn/img/ico2.webp","descr":"鬼畜世界网","siteshot":"https://cdn.guichushijie.cn/img/topr2.webp"},{"name":"Unlock music音乐解锁","link":"https://m.guichushijie.cn/","avatar":"https://cdn.guichushijie.cn/img/ico2.webp","descr":"解锁音乐","siteshot":"https://cdn.guichushijie.cn/img/topr2.webp"}];
     var refreshNum = 1;
